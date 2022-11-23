@@ -114,3 +114,6 @@ body {
     color: var(--clr-blue-800);
 }
 
+.attribution {
+    padding-top: 2rem;
+}
